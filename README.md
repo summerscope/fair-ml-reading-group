@@ -1,6 +1,6 @@
 # Fair ML Reading Group 2019
 🌍 Melbourne, Australia  
-🏠 Hosted by [Silverpond](https://silverpond.com.au/) 
+🏠 Hosted by [Silverpond](https://silverpond.com.au/)  
 🤖 Facilitated by (Laura)[https://twitter.com/summerscope]
 
 ## Description

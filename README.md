@@ -1,6 +1,6 @@
 # Fair ML Reading Group 2019
-Melbourne, Australia
-Hosted by [Silverpond](https://silverpond.com.au/) 
+🌍 Melbourne, Australia  
+🏠 Hosted by [Silverpond](https://silverpond.com.au/) 
 
 ## Description
 We're a multi-disciplinary group reading papers on the topic of fairness and ethics in Machine Learning and Data Science. Our syllabus so far has been setting the scene and getting a feeling for the overall approaches.  We'll be doing some deep diving into specific approaches in the months to come. 
@@ -41,10 +41,8 @@ _Week off_
   
 11 July  
 **The Ethics of AI Ethics -- An Evaluation of Guidelines**  
-[https://arxiv.org/abs/1903.03425](https://arxiv.org/abs/1903.03425)  
-   
-+  
- 
+[https://arxiv.org/abs/1903.03425](https://arxiv.org/abs/1903.03425)    
+&  
 [https://ai-hr.cyber.harvard.edu/primp-viz.html](https://ai-hr.cyber.harvard.edu/primp-viz.html)  
 (whitepaper to come)  
  

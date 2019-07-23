@@ -1,6 +1,7 @@
 # Fair ML Reading Group 2019
 🌍 Melbourne, Australia  
 🏠 Hosted by [Silverpond](https://silverpond.com.au/) 
+🤖 Facilitated by (Laura)[https://twitter.com/summerscope]
 
 ## Description
 We're a multi-disciplinary group reading papers on the topic of fairness and ethics in Machine Learning and Data Science. Our syllabus so far has been setting the scene and getting a feeling for the overall approaches.  We'll be doing some deep diving into specific approaches in the months to come. 

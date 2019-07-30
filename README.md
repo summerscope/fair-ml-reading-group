@@ -56,3 +56,6 @@ in Software Development?**
 **The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation**  
 [https://arxiv.org/abs/1802.07228](https://arxiv.org/abs/1802.07228)  
 
+1 August  
+**Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems**   
+[https://arxiv.org/pdf/1907.09615.pdf](https://arxiv.org/pdf/1907.09615.pdf)  

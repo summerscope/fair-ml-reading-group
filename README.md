@@ -61,6 +61,8 @@ in Software Development?**
 [https://arxiv.org/pdf/1907.09615.pdf](https://arxiv.org/pdf/1907.09615.pdf)  
 
 
+_Counterfactual cluster_  
+
 3 October  
 **The Sensitivity of Counterfactual Fairness to Unmeasured Confounding**  
-[https://arxiv.org/pdf/1907.01040v1.pdf](https://arxiv.org/pdf/1907.01040v1.pdf)
+[https://arxiv.org/abs/1907.01040](https://arxiv.org/abs/1907.01040)

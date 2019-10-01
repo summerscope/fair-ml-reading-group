@@ -59,3 +59,8 @@ in Software Development?**
 1 August  
 **Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems**   
 [https://arxiv.org/pdf/1907.09615.pdf](https://arxiv.org/pdf/1907.09615.pdf)  
+
+
+3 October  
+**The Sensitivity of Counterfactual Fairness to Unmeasured Confounding**  
+[https://arxiv.org/pdf/1907.01040v1.pdf](https://arxiv.org/pdf/1907.01040v1.pdf)

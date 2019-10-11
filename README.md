@@ -65,4 +65,11 @@ _Counterfactual cluster_
 
 3 October  
 **The Sensitivity of Counterfactual Fairness to Unmeasured Confounding**  
-[https://arxiv.org/abs/1907.01040](https://arxiv.org/abs/1907.01040)
+[https://arxiv.org/abs/1907.01040](https://arxiv.org/abs/1907.01040) 
+
+11 October  
+**Equal Opportunity and Affirmative Action via Counterfactual Predictions**  
+[https://arxiv.org/abs/1905.10870v2](https://arxiv.org/abs/1905.10870v2)
+ 
+ 
+ 

@@ -68,8 +68,16 @@ _Counterfactual cluster_
 [https://arxiv.org/abs/1907.01040](https://arxiv.org/abs/1907.01040) 
 
 11 October  
-**Equal Opportunity and Affirmative Action via Counterfactual Predictions**  
+**Equal Opportunity and Affirmative Action via Counterfactual Predictions (1st Half)**  
 [https://arxiv.org/abs/1905.10870v2](https://arxiv.org/abs/1905.10870v2)
  
- 
+
+23 October  
+**Equal Opportunity and Affirmative Action via Counterfactual Predictions (2nd Half)**  
+[https://arxiv.org/abs/1905.10870v2](https://arxiv.org/abs/1905.10870v2)
+
+
+1 November     
+**Counterfactual Fairness Hack Night**  
+_No paper_  
  

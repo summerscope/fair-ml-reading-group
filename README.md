@@ -80,4 +80,15 @@ _Counterfactual cluster_
 1 November     
 **Counterfactual Fairness Hack Night**  
 _No paper_  
- 
+
+7 November     
+**Path-specific Counterfactual Fairness**  
+[https://arxiv.org/pdf/1802.08139v1.pdf](https://arxiv.org/pdf/1802.08139v1.pdf)   
+
+15 November     
+**Counterfactual Fairness Hack Night**   
+_No paper_  
+
+21 November     
+**Machine Behaviour**  
+[https://www.nature.com/articles/s41586-019-1138-y.pdf](https://www.nature.com/articles/s41586-019-1138-y.pdf)   

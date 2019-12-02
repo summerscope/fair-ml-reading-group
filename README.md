@@ -92,3 +92,7 @@ _No paper_
 21 November     
 **Machine Behaviour**  
 [https://www.nature.com/articles/s41586-019-1138-y.pdf](https://www.nature.com/articles/s41586-019-1138-y.pdf)   
+  
+29 November     
+**Counterfactual Fairness Hack Night**   
+_No paper_  

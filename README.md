@@ -2,7 +2,7 @@
 🌏 Melbourne, Australia  
 🏠 Hosted by [Silverpond](https://silverpond.com.au/)  
 🤖 Facilitated by [Laura](https://twitter.com/summerscope)  
-📬 Listserv at [https://groups.io/g/fair-ml](groups.io/g/fair-ml)  
+📬 Listserv at [groups.io/g/fair-ml](https://groups.io/g/fair-ml)  
  
 ## Description
 A multi-disciplinary group reading papers on the topic of fairness and ethics in Machine Learning and Data Science. Our syllabus so far has been setting the scene and getting a feeling for the overall approaches.  We'll be doing some deep diving into specific approaches in the months to come. 

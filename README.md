@@ -96,3 +96,7 @@ _No paper_
 29 November     
 **Counterfactual Fairness Hack Night**   
 _No paper_  
+  
+5 December  
+**Counterfactual Risk Assessments, Evaluation, and Fairness**  
+[https://arxiv.org/pdf/1909.00066v1.pdf](https://arxiv.org/pdf/1909.00066v1.pdf)

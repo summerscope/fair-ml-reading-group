@@ -7,8 +7,7 @@
 ## Description
 A multi-disciplinary group reading papers on the topic of fairness and ethics in Machine Learning and Data Science. 
 
-**2019 Reading List**
-[https://github.com/summerscope/fair-ml-reading-group/blob/master/2019.md](https://github.com/summerscope/fair-ml-reading-group/blob/master/2019.md)
+2019 papers — [https://github.com/summerscope/fair-ml-reading-group/blob/master/2019.md](https://github.com/summerscope/fair-ml-reading-group/blob/master/2019.md)
 
 ---
 ## Reading history

@@ -16,3 +16,15 @@ January 16
 **On Consequentialism and Fairness**  
 [https://arxiv.org/abs/2001.00329](https://arxiv.org/abs/2001.00329)  
   
+January 24  
+**A Framework for Understanding Unintended Consequences of Machine Learning**  
+[https://arxiv.org/abs/1901.10002](https://arxiv.org/abs/1901.10002)  
+  
+January 30  
+**Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for Ai**  
+[https://cyber.harvard.edu/publication/2020/principled-ai](https://cyber.harvard.edu/publication/2020/principled-ai)  
+  
+February 7  
+**Bayesian Modeling of Intersectional Fairness: The Variance of Bias**  
+[http://arxiv.org/abs/1811.07255v2](http://arxiv.org/abs/1811.07255v2)
+

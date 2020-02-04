@@ -24,15 +24,16 @@ January 30
 **Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for Ai**  
 [https://cyber.harvard.edu/publication/2020/principled-ai](https://cyber.harvard.edu/publication/2020/principled-ai)  
   
-February 5  
+February 14  
 **Bayesian Modeling of Intersectional Fairness: The Variance of Bias**  
 [http://arxiv.org/abs/1811.07255v2](http://arxiv.org/abs/1811.07255v2)
 
-February 14  
+February 21  
+**Autonomous technology – sources of confusion: a model for explanation and prediction of conceptual shifts**  
+[https://www.researchgate.net/publication/259204283_Autonomous_technology_-_sources_of_confusion_A_model_for_explanation_and_prediction_of_conceptual_shifts](https://www.researchgate.net/publication/259204283_Autonomous_technology_-_sources_of_confusion_A_model_for_explanation_and_prediction_of_conceptual_shifts)  
+
+February 28  
 **The hidden assumptions behind counterfactual explanations and principal reasons**  
 [https://dl.acm.org/doi/10.1145/3351095.3372830](https://dl.acm.org/doi/10.1145/3351095.3372830)
 
-February 20  
-**Autonomous technology – sources of confusion: a model for explanation and prediction of conceptual shifts**  
-[https://www.researchgate.net/publication/259204283_Autonomous_technology_-_sources_of_confusion_A_model_for_explanation_and_prediction_of_conceptual_shifts](https://www.researchgate.net/publication/259204283_Autonomous_technology_-_sources_of_confusion_A_model_for_explanation_and_prediction_of_conceptual_shifts)
 

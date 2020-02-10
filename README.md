@@ -3,6 +3,7 @@
 🏠 Hosted by [Silverpond](https://silverpond.com.au/)  
 🤖 Facilitated by [Laura](https://twitter.com/summerscope)  
 📬 Listserv at [groups.io/g/fair-ml](https://groups.io/g/fair-ml)  
+🗓 Calendar at [calendar.google.com/calendar?cid=MWVxa29iam90NHB0YXMzNjQxZXRvN2lkZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=MWVxa29iam90NHB0YXMzNjQxZXRvN2lkZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
  
 ## Description
 A multi-disciplinary group reading papers on the topic of fairness and ethics in Machine Learning and Data Science. 

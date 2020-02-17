@@ -35,6 +35,9 @@ February 21
 
 February 28  
 **The hidden assumptions behind counterfactual explanations and principal reasons**  
-[https://dl.acm.org/doi/10.1145/3351095.3372830](https://dl.acm.org/doi/10.1145/3351095.3372830)
+[https://dl.acm.org/doi/10.1145/3351095.3372830](https://dl.acm.org/doi/10.1145/3351095.3372830)  
 
+March 5  
+**Bayesian Modeling of Intersectional Fairness: The Variance of Bias**  _(Revisited)_  
+[http://arxiv.org/abs/1811.07255v2](http://arxiv.org/abs/1811.07255v2) 
 

@@ -41,3 +41,7 @@ March 5
 **Bayesian Modeling of Intersectional Fairness: The Variance of Bias**  _(Revisited)_  
 [http://arxiv.org/abs/1811.07255v2](http://arxiv.org/abs/1811.07255v2) 
 
+March 13  
+**Adversarial Explanations for Understanding Image Classification Decisions and Improved Neural Network Robustness**
+[https://arxiv.org/abs/1906.02896](https://arxiv.org/abs/1906.02896) + [https://github.com/wwoods/adversarial-explanations-cifar](https://github.com/wwoods/adversarial-explanations-cifar)
+

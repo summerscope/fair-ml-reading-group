@@ -43,9 +43,8 @@ March 5
 
 March 13  
 **Adversarial Explanations for Understanding Image Classification Decisions and Improved Neural Network Robustness**
-[https://arxiv.org/abs/1906.02896](https://arxiv.org/abs/1906.02896) + [https://github.com/wwoods/adversarial-explanations-cifar](https://github.com/wwoods/adversarial-explanations-cifar)
+[https://arxiv.org/abs/1906.02896](https://arxiv.org/abs/1906.02896) + [https://github.com/wwoods/adversarial-explanations-cifar](https://github.com/wwoods/adversarial-explanations-cifar)   
 
-
-March 20 
+March 20  
 **Principles for the Application of Human Intelligence**  
 [https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)

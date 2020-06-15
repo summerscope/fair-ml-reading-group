@@ -69,8 +69,8 @@ May 28 & June 4
 **Explanation in Artificial Intelligence: Insights from the Social Sciences**  
 [https://arxiv.org/abs/1706.07269](https://arxiv.org/abs/1706.07269)
 
-June 12 
-**Desanctifying the charisma of numbers**  
+June 12  
+**Desanctifying the charisma of numbers**   
 [https://www.tandfonline.com/action/showCitFormats?doi=10.1080/17530350.2018.1527710](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/17530350.2018.1527710)
 
 June 25  

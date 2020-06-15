@@ -51,22 +51,22 @@ March 20
   
 April 2 
 **Leverage Points: Places to Intervene in a System**  
-Online: [http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
-PDF: [http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf](http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf)
+Online: [http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)  
+PDF: [http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf](http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf) 
   
 April 17  
-**Adversarial Explanations for Understanding Image Classification Decisions and Improved Neural Network Robustness**  
+**Adversarial Explanations for Understanding Image Classification Decisions and Improved Neural Network Robustness**    
 [https://arxiv.org/abs/1906.02896](https://arxiv.org/abs/1906.02896)  
 
-April 30 
+April 30  
 _COVIDsafe app discussion, no paper_
 
-May 15 
-**Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction**
+May 15  
+**Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction**  
 [https://estsjournal.org/index.php/ests/article/view/260](https://estsjournal.org/index.php/ests/article/view/260)
 
 May 28 & June 4    
-**Explanation in Artificial Intelligence: Insights from the Social Sciences**
+**Explanation in Artificial Intelligence: Insights from the Social Sciences**  
 [https://arxiv.org/abs/1706.07269](https://arxiv.org/abs/1706.07269)
 
 June 12 

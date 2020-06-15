@@ -48,3 +48,31 @@ March 13
 March 20  
 **Principles for the Application of Human Intelligence**  
 [https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)
+  
+April 2 
+**Leverage Points: Places to Intervene in a System**  
+Online: [http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+PDF: [http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf](http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf)
+  
+April 17  
+**Adversarial Explanations for Understanding Image Classification Decisions and Improved Neural Network Robustness**  
+[https://arxiv.org/abs/1906.02896](https://arxiv.org/abs/1906.02896)  
+
+April 30 
+_COVIDsafe app discussion, no paper_
+
+May 15 
+**Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction**
+[https://estsjournal.org/index.php/ests/article/view/260](https://estsjournal.org/index.php/ests/article/view/260)
+
+May 28 & June 4    
+**Explanation in Artificial Intelligence: Insights from the Social Sciences**
+[https://arxiv.org/abs/1706.07269](https://arxiv.org/abs/1706.07269)
+
+June 12 
+**Desanctifying the charisma of numbers**  
+[https://www.tandfonline.com/action/showCitFormats?doi=10.1080/17530350.2018.1527710](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/17530350.2018.1527710)
+
+June 25  
+**Gender Shades**  
+[http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)

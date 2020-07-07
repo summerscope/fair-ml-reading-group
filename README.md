@@ -76,3 +76,7 @@ June 12
 June 25  
 **Gender Shades**  
 [http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+
+July 10  
+**Combating Anti-Blackness in the AI Community**  
+[https://arxiv.org/pdf/2006.16879.pdf](https://arxiv.org/pdf/2006.16879.pdf)  

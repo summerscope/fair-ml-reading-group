@@ -80,3 +80,11 @@ June 25
 July 10  
 **Combating Anti-Blackness in the AI Community**  
 [https://arxiv.org/pdf/2006.16879.pdf](https://arxiv.org/pdf/2006.16879.pdf)  
+
+August 7  
+**RoboTed: a case study in Ethical Risk Assessment**  
+[https://arxiv.org/abs/2007.15864v1](https://arxiv.org/abs/2007.15864v1)  
+
+August 20  
+**From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices**  
+[https://arxiv.org/abs/1905.06876](https://arxiv.org/abs/1905.06876)

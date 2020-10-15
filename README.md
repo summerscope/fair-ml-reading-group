@@ -88,3 +88,16 @@ August 7
 August 20  
 **From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices**  
 [https://arxiv.org/abs/1905.06876](https://arxiv.org/abs/1905.06876)
+  
+Sept 17  
+**SCRUPLES: A Corpus of Community Ethical Judgments on 32,000 Real-life Anecdotes**  
+[https://arxiv.org/abs/2008.09094](https://arxiv.org/abs/2008.09094)  
+
+
+Oct 1  
+**FACE: Feasible and Actionable Counterfactual Explanations**  
+[https://arxiv.org/abs/1909.09369v2](https://arxiv.org/abs/1909.09369v2)   
+  
+Oct 15  
+**Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages**  
+[https://arxiv.org/abs/2010.02353](https://arxiv.org/abs/2010.02353)  

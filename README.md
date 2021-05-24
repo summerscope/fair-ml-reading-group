@@ -49,5 +49,5 @@ May 26
 [https://explainml-tutorial.github.io/aaai21](https://explainml-tutorial.github.io/aaai21) 
   
 _Bonus Paper_   
-**The Myth of Complete AI-Fairness**
+**The Myth of Complete AI-Fairness**  
 [https://arxiv.org/abs/2104.12544](https://arxiv.org/abs/2104.12544)  

@@ -44,7 +44,7 @@ May 13
 **Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI**  
 [https://arxiv.org/abs/2010.07487](https://arxiv.org/abs/2010.07487)  
   
-May 26
+May 26   
 **Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities**  
 [https://explainml-tutorial.github.io/aaai21](https://explainml-tutorial.github.io/aaai21) 
   

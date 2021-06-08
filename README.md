@@ -51,3 +51,9 @@ May 26
 _Bonus Paper_   
 **The Myth of Complete AI-Fairness**  
 [https://arxiv.org/abs/2104.12544](https://arxiv.org/abs/2104.12544)  
+  
+June 10  
+**Fair Bayesian Optimization**   
+[https://arxiv.org/abs/2006.05109](https://arxiv.org/abs/2006.05109)  
+
+

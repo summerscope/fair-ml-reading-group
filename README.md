@@ -56,4 +56,6 @@ June 10
 **Fair Bayesian Optimization**   
 [https://arxiv.org/abs/2006.05109](https://arxiv.org/abs/2006.05109)  
 
-
+June 23  
+**Ethical considerations in multilabel text classifications**  
+[https://smartygrants.com.au/research/ethical-considerations-in-multilabel-text-classifications](https://smartygrants.com.au/research/ethical-considerations-in-multilabel-text-classifications)   

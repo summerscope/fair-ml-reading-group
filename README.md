@@ -59,3 +59,7 @@ June 10
 June 23  
 **Ethical considerations in multilabel text classifications**  
 [https://smartygrants.com.au/research/ethical-considerations-in-multilabel-text-classifications](https://smartygrants.com.au/research/ethical-considerations-in-multilabel-text-classifications)   
+
+July 8  
+**It's COMPASlicated: The Messy Relationship between RAI Datasets and Algorithmic Fairness Benchmarks**  
+[https://arxiv.org/abs/2106.05498](https://arxiv.org/abs/2106.05498)  

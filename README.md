@@ -63,3 +63,7 @@ June 23
 July 8  
 **It's COMPASlicated: The Messy Relationship between RAI Datasets and Algorithmic Fairness Benchmarks**  
 [https://arxiv.org/abs/2106.05498](https://arxiv.org/abs/2106.05498)  
+
+July 21  
+**Artificial Intelligence and the Purpose of Social Systems**  
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3850456](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3850456)  

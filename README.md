@@ -67,3 +67,7 @@ July 8
 July 21  
 **Artificial Intelligence and the Purpose of Social Systems**  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3850456](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3850456)  
+  
+August 5  
+**Leave-one-out Unfairness**  
+[https://arxiv.org/abs/2107.10171v1](https://arxiv.org/abs/2107.10171v1)
